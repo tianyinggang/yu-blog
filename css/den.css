@@ -604,5 +604,3 @@ blockquote {
 .content figure figcaption a {
 	position: static;
 }
-
-@import url('custom.css');
