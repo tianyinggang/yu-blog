@@ -10,7 +10,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700');
 
 @import url('syntax.css');
-@import url('custom.css');
 
 /* Responsive */
 @media (min-width: 768px) {
@@ -605,3 +604,5 @@ blockquote {
 .content figure figcaption a {
 	position: static;
 }
+
+@import url('custom.css');
