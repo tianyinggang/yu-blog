@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://www.pseudoyu.com/"
+baseURL = "blog.yonglow.xyz"
 title = "Pseudoyu"
 theme = "hugo-theme-den"
 enableRobotsTXT = true      # generate robots.txt
