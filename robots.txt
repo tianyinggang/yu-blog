@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.pseudoyu.com/sitemap.xml
+Sitemap: blog.yonglow.xyz/sitemap.xml
